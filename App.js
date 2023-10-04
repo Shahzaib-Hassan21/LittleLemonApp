@@ -10,8 +10,8 @@ export default function App() {
     <View style={parentStyle.container}>
      <LittleLemonHeader/>
      {/* <MenuItem/> */}
-     {/* <WelcomeScreen/> */}
-     <LoginScreen/>
+     <WelcomeScreen/>
+     {/* <LoginScreen/> */}
      </View>
      <View style={parentStyle.footerContainer}>
      <LittleLemonFooter/>
